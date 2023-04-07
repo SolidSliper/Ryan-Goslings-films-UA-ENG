@@ -3,7 +3,7 @@ List of films and series by Ryan Gosling
 
 Ви можете позначати переглянуті фільми Раяна Ґослінґа, а також переходити за посиланнями на сайти з його фільмами :)
 
-You can mark the films you have watched by Ryan Gosling and follow the links to the websites with his films :)
+You can mark the Ryan Gosling's films you have watched and follow the links to the websites with his films :)
 
 https://solidsliper.github.io/Ryan-Goslings-films-UA-ENG/Ryan.html
 
